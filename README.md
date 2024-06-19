@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joaquin Ismael Rodriguez</h1>
-<h3 align="center">A passionate Data Scientist from Argentina</h3>
+<h3 align="center">A passionate Data Scientist from Argentina, an engineer in development.</h3>
 
-- 🔭 My work is [Restaurantes Maps-Yelp](https://github.com/Joaqrz/Proyecto_Final_Yelp)
+- 🔭 I've worked in [Restaurantes Maps-Yelp](https://github.com/Joaqrz/Proyecto_Final_Yelp)
+
+- 📊 A data analisys project [Dashboard Incidentes](https://github.com/Joaqrz/Proyecto-Individual-2)
+
+- 🤖 A machine learning project [Api de Steam](https://github.com/Joaqrz/Proyecto_Individual_Final)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
