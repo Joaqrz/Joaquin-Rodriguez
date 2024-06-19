@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joaquin Ismael Rodriguez</h1>
 <h3 align="center">A passionate Data Scientist from Argentina, currently an engineer in development.</h3>
 
-- 🔭 I've worked in [Restaurantes Maps-Yelp](https://github.com/Joaqrz/Proyecto_Final_Yelp)
-We created a sophisticated restaurant analysis and recommendation system leveraging Yelp and Google Maps data. The project involved setting up a data warehouse on Google Cloud, utilizing Cloud Functions and Airflow for data transformation, and conducting analysis in BigQuery. Machine learning models were developed with scikit-learn, and sentiment analysis was performed using VADER. The results were displayed on interactive dashboards with Streamlit and Power BI.
-Used Technologies:
-🔹Google Cloud Platform
-🔹Python
-🔹Streamlit, Power BI
-🔹Others (Trello, Github, Slack)
+- 🔭 I've worked in [Restaurantes Maps-Yelp](https://github.com/Joaqrz/Proyecto_Final_Yelp) <br>
+We created a sophisticated restaurant analysis and recommendation system leveraging Yelp and Google Maps data. The project involved setting up a data warehouse on Google Cloud, utilizing Cloud Functions and Airflow for data transformation, and conducting analysis in BigQuery. Machine learning models were developed with scikit-learn, and sentiment analysis was performed using VADER. The results were displayed on interactive dashboards with Streamlit and Power BI.<br>
+Used Technologies:<br>
+🔹Google Cloud Platform<br>
+🔹Python<br>
+🔹Streamlit, Power BI<br>
+🔹Others (Trello, Github, Slack)<br>
 - 
 
 - 📊 A data analisys project [Dashboard Incidentes](https://github.com/Joaqrz/Proyecto-Individual-2)
