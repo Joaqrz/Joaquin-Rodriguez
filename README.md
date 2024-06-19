@@ -16,7 +16,13 @@ Used Technologies:<br>
 🔹Scikit learn<br>
 🔹Seaborn<br>
 🔹Pandas<br><br><br>
-- 🤖 A machine learning project [Api de Steam](https://github.com/Joaqrz/Proyecto_Individual_Final)
+- 🤖 A machine learning project [Api de Steam](https://github.com/Joaqrz/Proyecto_Individual_Final)<br><br>
+In this project, a recommendation system was created to find video games similar to others, according to the user's needs.<br><br>
+Used Technologies:<br>
+🔹Python<br>
+🔹Scikit learn<br>
+🔹Seaborn<br>
+🔹Pandas<br><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
