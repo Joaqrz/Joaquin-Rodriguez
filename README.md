@@ -10,12 +10,12 @@ Used Technologies:<br>
 🔹Others (Trello, Github, Slack)<br><br><br>
 
 - 📊 A data analisys project [Dashboard Incidentes](https://github.com/Joaqrz/Proyecto-Individual-2)<br><br>
-In this project, a recommendation system was created to find video games similar to others, according to the user's needs.<br><br>
+This project aims to analyze traffic accidents in the Autonomous City of Buenos Aires in order to make appropriate decisions to reduce their occurrence.<br><br>
 Used Technologies:<br>
 🔹Python<br>
-🔹Scikit learn<br>
-🔹Seaborn<br>
-🔹Pandas<br><br><br>
+🔹Numpy<br>
+🔹Pandas<br>
+🔹Streamlit<br><br><br>
 - 🤖 A machine learning project [Api de Steam](https://github.com/Joaqrz/Proyecto_Individual_Final)<br><br>
 In this project, a recommendation system was created to find video games similar to others, according to the user's needs.<br><br>
 Used Technologies:<br>
